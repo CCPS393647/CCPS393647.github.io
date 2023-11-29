@@ -1,1 +1,14 @@
+P{
+  Font-Family: Arial;
+  Color: Blue;
+}
+
+body {
+  background-color: rgb(57, 169, 219);
+  font-family: Rubik, Arial;}
+
+h1 {
+  font-family: Spicy Rice, Arial;
+  font-size: 4em;
+  overflow: break;}
 
