@@ -3,12 +3,36 @@ P{
   Color: Blue;
 }
 
-body {
-  background-color: rgb(57, 169, 219);
-  font-family: Rubik, Arial;}
+ul{
+  font-family:calibri;
+  color:green;
+}
+
+ol{
+  text-align:left;
+  fornt-size: 24px;
+}
 
 h1 {
   font-family: Spicy Rice, Arial;
   font-size: 4em;
   overflow: break;}
+
+header{
+  text-align: center;
+  margin-top: 5px;
+}
+
+body {
+  background-color: rgb(57, 169, 219);
+  font-family: Rubik, Arial;}
+
+footer{
+  text-align: center;
+  position: fixed;
+}
+
+
+
+  
 
